@@ -39,4 +39,3 @@ while(i<26):
                 y=0
         monitor = {"top":270,"left":20,"width":20,"height":20}
         i=i+1
-os.system('cowsay Solved This Bitch')
