@@ -1,7 +1,7 @@
 # Author: Moksh Chaudhary
 # Github: www.github.com/mokshchaudhary
 
-import mss #faster Screenshot that pyautogui
+import mss #faster Screenshot than pyautogui
 import cv2
 import numpy as np
 import pyautogui as p
