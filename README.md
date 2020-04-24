@@ -10,7 +10,7 @@ _Real Time Video, Not Sped Up:_
 <br>
 <img src="https://media.giphy.com/media/U4jM2Jyl300oypqrW8/giphy.gif" width="70%"/>
 
-See Whole Video [Here](https://gfycat.com/forkededibleeasteuropeanshepherd)
+See Full Video [Here](https://gfycat.com/forkededibleeasteuropeanshepherd)
 
 
 
@@ -24,9 +24,9 @@ See Whole Video [Here](https://gfycat.com/forkededibleeasteuropeanshepherd)
 4. It then clicks the `Check All` button and moves forward to next box.
 5. This is repeated for all the alphabets for all the empty boxes until no box remains empty.
 
-**Note:** Yes I know that it can just click the `Check All` button once after all the boxes are filled with the alphabet and it will make the program faster.  I just found this approach a bit more pretty : )   Fell free to change it , in my testing it is about 4 sec faster.
+**Note:** Yes I know that it can just click the `Check All` button once after all the boxes are filled with the alphabet and it will make the program faster.  I just found this approach a bit more pretty : )   Fell free to change it , in my testing it was about 4 sec faster.
 
-Got more Ideas ? Feel free to dive into the code, It's well commented !
+Got more Ideas ? Feel free to dive into the code.
 
 
 
