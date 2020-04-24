@@ -16,6 +16,8 @@ See Whole Video [Here](https://gfycat.com/forkededibleeasteuropeanshepherd)
 
 ## How it Works
 
+![working](https://i.imgur.com/49sJnRH.jpg)
+
 1. Takes the screenshot of the first box of the crossword
 2. Does Image processing on it and then checks if it is black, filled or empty. (using `np.mean`)
 3. If the box is empty it fills it with the first letter according to the frequency of alphabet in English language
