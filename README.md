@@ -14,6 +14,20 @@ See Whole Video [Here](https://gfycat.com/forkededibleeasteuropeanshepherd)
 
 
 
+## How it Works
+
+1. Takes the screenshot of the first box of the crossword
+2. Does Image processing on it and then checks if it is black, filled or empty.
+3. If the box is empty it fills it with the first letter according to the frequency of alphabet in English language
+4. It then clicks the `Check All` button and moves forward to next box.
+5. This is repeated for all the alphabets.
+
+**Note:** Yes I know that it can just click the `Check All` button once after all the boxes are filled with the alphabet and it will make the program faster.  I just found this approach a bit more pretty : )   Fell free to change it , in my testing it is about 4 sec faster.
+
+Got more Ideas ? Feel free to dive into the code it's well commented.
+
+
+
 ## Perquisite:
 
  - ### Python:
