@@ -20,7 +20,7 @@ See Whole Video [Here](https://gfycat.com/forkededibleeasteuropeanshepherd)
 2. Does Image processing on it and then checks if it is black, filled or empty. (using `np.mean`)
 3. If the box is empty it fills it with the first letter according to the frequency of alphabet in English language
 4. It then clicks the `Check All` button and moves forward to next box.
-5. This is repeated for all the alphabets.
+5. This is repeated for all the alphabets for all the empty boxes until no box remains empty.
 
 **Note:** Yes I know that it can just click the `Check All` button once after all the boxes are filled with the alphabet and it will make the program faster.  I just found this approach a bit more pretty : )   Fell free to change it , in my testing it is about 4 sec faster.
 
