@@ -49,7 +49,7 @@ Got more Ideas ? Feel free to dive into the code.
 
 Open the [Crossword](https://multicrosser.chriszetter.com/) Game<br>
 Start the python program by typing this in command prompt:<br>
-`python3 dino.py`
+`python3 cross.py`
 
 
 
