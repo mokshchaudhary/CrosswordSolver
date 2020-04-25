@@ -14,9 +14,9 @@ p.PAUSE=0 #Defines the pause between clicks
 # Processes Image
 def impro(img):
         img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY) #Turns it into Grayscale
-        ret, thresh = cv2.threshold(img,180,255,cv2.THRESH_BINARY_INV)
-        img = cv2.bitwise_not(thresh)
-        return img
+        ret, thresh = cv2.threshold(img,180,255,cv2.THRESH_BINARY_INV) #Threhold Read more at: https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html
+        img = cv2.bitwise_not(thresh) # Bitwise Not
+        return img # returns the processed image
 
 for i in range(26):
         x=y=0
