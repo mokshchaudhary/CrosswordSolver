@@ -1,5 +1,6 @@
 # Author: Moksh Chaudhary
 # Github: www.github.com/mokshchaudhary
+# For more info contact moksh445@gmail.com
 
 import mss #faster Screenshot than pyautogui
 import cv2
